@@ -1,3 +1,2 @@
 # UnityRunner
-A simple platformer game for learning 
-made with unity
+A simple platformer game for learning
